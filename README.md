@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Amen+Ramadan;I'm+a+Frontend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Muhammad+Mansour;I'm+a+Frontend+Developer)
 
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
