@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,mongodb,nestjs,nodejs,npm,postman,ts,	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,nestjs,nodejs,postman,ts,express	)](https://skillicons.dev)
 
 
 #### Tools:
